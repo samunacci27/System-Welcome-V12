@@ -1,5 +1,5 @@
 const id_chatWelcome = "";
-//                        
+//                     ⬆️ id chat to invite the message Welcome
 
 // Membro si unisce al server
 bot.on('guildMemberAdd', member => {
