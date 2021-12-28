@@ -8,3 +8,5 @@ Created by StormSam#9932 on Discord
 
 - all custom
 - Custom Embed 
+
+Thanks for reading 
